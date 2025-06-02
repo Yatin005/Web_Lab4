@@ -15,3 +15,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - This file sets up the overall structure for your pages.
 - You can add things like a header, navigation menu, or footer here — stuff that you want to show on every page.
+
+📄 Pagination : 
+Pagination is a technique used in web applications to divide large datasets into smaller, more manageable chunks called "pages." Rather than loading all records at once—which can impact performance—pagination allows users to request data page by page.
